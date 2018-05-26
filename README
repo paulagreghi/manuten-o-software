@@ -1,0 +1,6 @@
+1. Instalar o XAMPP;
+2. Acessar o localhost da aplicação por um navegador e criar o banco 'bd_tcc';
+3. Copiar os dados do arquivo bd_tcc.sql que se encontra na pasta bd;
+4. Copiar a pasta sistema na pasta htdocs do XAMPP que se encontra em /opt/lampp/htdocs no Linux;
+5. Acessar o endereço localhost/sistema;
+6. As chaves estrangeiras deverão ser cadastradas pelo id;
